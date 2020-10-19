@@ -13,6 +13,7 @@ import { HeaderComponent } from './shared/header/header.component';
 import { FooterComponent } from './shared/footer/footer.component';
 
 import { InfoPaginaService } from './services/info-pagina.service';
+import { SearchComponent } from './pages/search/search.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { InfoPaginaService } from './services/info-pagina.service';
     FooterComponent,
     PortafolioComponent,
     AboutComponent,
-    ItemComponent    
+    ItemComponent,
+    SearchComponent    
   ],
   imports: [
     BrowserModule,

@@ -1350,13 +1350,13 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
+  /* background-image: url("../img/project-1.jpg"); */
   background-position: 50% 100%;
   background-size: 350%;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
   .item-inside-1 {
-    background-image: url("../img/project-1h.jpg");
+    /* background-image: url("../img/project-1h.jpg"); */
   }
 }
 @media (min-width: 40em) {
@@ -1366,7 +1366,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/post-1.jpg");
+  /* background-image: url("../img/post-1.jpg"); */
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1570,21 +1570,13 @@ body {
   margin-bottom: 7.3rem;
 }
 
-.post-1 {
-  background-image: url("../img/post-1.jpg");
-}
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
     background-position: center right;
   }
 }
 
-.post-2 {
-  background-image: url("../img/post-2.jpg");
-}
-
 .post-3 {
-  background-image: url("../img/post-3.jpg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1596,65 +1588,37 @@ body {
   }
 }
 
-.post-4 {
-  background-image: url("../img/post-4.jpg");
-}
-
-.post-5 {
-  background-image: url("../img/post-5.jpg");
-}
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-5 {
     background-position: center left;
   }
 }
 
-.post-6 {
-  background-image: url("../img/post-6.jpg");
-}
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-6 {
     background-position: center right;
   }
 }
 
-.post-7 {
-  background-image: url("../img/post-7.jpg");
-}
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-7 {
     background-position: center left;
   }
 }
 
-.post-8 {
-  background-image: url("../img/post-8.jpg");
-}
-
-.post-9 {
-  background-image: url("../img/post-9.jpg");
-}
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-9 {
     background-position: 25% 50%;
   }
 }
 
-.post-1 {
-  background-image: url("../img/post-1.jpg");
-}
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
     background-position: center right;
   }
 }
 
-.post-2 {
-  background-image: url("../img/post-2.jpg");
-}
-
 .post-3 {
-  background-image: url("../img/post-3.jpg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1666,44 +1630,24 @@ body {
   }
 }
 
-.post-4 {
-  background-image: url("../img/post-4.jpg");
-}
-
-.post-5 {
-  background-image: url("../img/post-5.jpg");
-}
 @media (min-width: 40em) {
   .rk-blog--columns .post-5 {
     background-position: center left;
   }
 }
 
-.post-6 {
-  background-image: url("../img/post-6.jpg");
-}
 @media (min-width: 40em) {
   .rk-blog--columns .post-6 {
     background-position: center right;
   }
 }
 
-.post-7 {
-  background-image: url("../img/post-7.jpg");
-}
 @media (min-width: 40em) {
   .rk-blog--columns .post-7 {
     background-position: center left;
   }
 }
 
-.post-8 {
-  background-image: url("../img/post-8.jpg");
-}
-
-.post-9 {
-  background-image: url("../img/post-9.jpg");
-}
 @media (min-width: 40em) {
   .rk-blog--columns .post-9 {
     background-position: 25% 50%;
